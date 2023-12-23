@@ -1,25 +1,4 @@
-<span>
-    <style>
-        h1 {
-            color: #FFB534;
-        }
-        h2 {
-            color: #65B741;
-        }
-        h3 {
-            color: #C1F2B0;
-        }
-        p {
-            color: #FBF6EE;
-        }
-        span {
-            color: #FBF6EE;
-        }
-        a {
-            color: #FFB534;
-        }
-    </style>
-</span>
+
 
 # Blog api
 Api de blogs criada em java e Spring Framework!
@@ -50,6 +29,5 @@ Api de blogs criada em java e Spring Framework!
 Certifique-se de que esteja com o Java instalado e com o PATH configurado corretamente.
 
 É recomendado usar o IDE **IntelliJ IDEA** encontrado em [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/), ou qualquer IDE Java de sua preferência.
-
 
 
